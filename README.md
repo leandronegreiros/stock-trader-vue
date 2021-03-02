@@ -1,5 +1,5 @@
 # STOCKTRADER
-Uma aplição que vai simula a conslta de ações pre cadastrada com seus respectivos valores, podendo fazer a compra conforme seu saldo em carteira, tendo um portifolio de ações adquiridas e outro de ações disponiveis. Tem a possibilidade de finalizar o dia e uma função randomica ira variar o valor das ações para sima ou para baixa, dessa formar podemos vender ou esperar o valor subir.
+Uma aplição que vai simula a consulta de ações pre cadastrada com seus respectivos valores, podendo fazer a compra conforme seu saldo em carteira, tendo um portifolio de ações adquiridas e outro de ações disponiveis. Tem a possibilidade de finalizar o dia e uma função randomica ira variar o valor das ações para sima ou para baixa, dessa formar podemos vender ou esperar o valor subir.
 
 # ✋🏻 Pré-requisitos
 - [Npm](https://docs.npmjs.com/)
